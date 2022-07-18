@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoCalculator</string>
+    <string name="percentage">%</string>
+    <string name="_20">20</string>
+    <string name="add_sub">+/-</string>
+    <string name="_10_10">10+10</string>
+    <string name="division">/</string>
+    <string name="zero">()</string>
+</resources>
